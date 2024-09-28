@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GptTurboDemo": {
+      "commandName": "Project",
+      "commandLineArgs": " question --question \"find all cities in The Beach Boys - Kokomo song\""
+    }
+  }
+}
